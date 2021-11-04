@@ -1,0 +1,5 @@
+nome = input('seu nome: ')
+print(nome.upper())
+print(nome.lower())
+print(len(nome.replace(' ','')))
+print(len(nome[0:5]))
